@@ -1,3 +1,5 @@
+<img width="1254" height="1254" alt="fd6d0706-ea6c-4cd7-bbf9-8cc2c760351a" src="https://github.com/user-attachments/assets/d2990c7a-293e-4d41-b684-fdf1b241fe15" />
+
 # ⏰ Study Clock
 
 <p align="center">
