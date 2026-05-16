@@ -1,4 +1,4 @@
-<img width="481" height="771" alt="image" src="https://github.com/user-attachments/assets/58b541f7-4792-47a3-ad65-d1099bbb3af4" /># ⏰ Study Clock
+<img width="800" height="767" alt="image" src="https://github.com/user-attachments/assets/5c4c3c17-a684-4382-9012-30030a61e4dd" /># ⏰ Study Clock
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.0.0-pink?style=for-the-badge&logo=clock">
@@ -28,35 +28,26 @@
 ## 📸 Screenshots
 
 ### Pomodoro Timer
-<img width="481" height="771" alt="image" src="https://github.com/user-attachments/assets/2201f037-9dd5-4787-872b-18be95a98551" />
+<img width="801" height="767" alt="image" src="https://github.com/user-attachments/assets/e05d6253-987a-48bf-b5eb-30d398fe47da" />
 
 
 ### Stopwatch
-```
-┌─────────────────────────────┐
-│      00 : 05 : 32           │
-│                             │
-│   [▶ Start] [📋 Lap] [↻]   │
-│                             │
-│  ┌─────────────────────┐   │
-│  │ Lap 1 │ 00:02:15    │   │
-│  │ Lap 2 │ 00:05:32    │   │
-│  └─────────────────────┘   │
-└─────────────────────────────┘
-```
+<img width="800" height="767" alt="image" src="https://github.com/user-attachments/assets/5c3f95d2-daa6-487e-a50b-2e825aa8b920" />
 
----
 
-## 🚀 Quick Start
+## 🚀 Guide
 
-### Run the App
+### Installation~
 
 ```bash
-# Navigate to the app folder
-cd study-clock
+# Navigate to the Here.md
+download the archive from the given link in that.
+
+# Extract the Archieve
+you can use winrar, 7zip, etc.
 
 # Run the executable
-dist\win-unpacked\study-clock.exe
+dist\Essential Clock v1\study-clock.exe
 ```
 
 ---
@@ -128,8 +119,8 @@ study-clock/
 ├── package.json    # Dependencies
 ├── SPEC.md         # Design specification
 └── dist/
-    └── win-unpacked/
-        └── study-clock.exe  # 🎯 Executable
+    └── Essential Clock v1/
+        └── study-clock.exe  # Executable
 ```
 
 ---
